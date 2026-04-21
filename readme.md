@@ -1,5 +1,11 @@
 Assignment 3, by William Zhao
 
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/rDRw5ieKf8I/hqdefault.jpg)](https://youtube.com/shorts/rDRw5ieKf8I)
+
+> Click the thumbnail to watch the demo.
+
 Assignment Requirements
 - Implemented Inverse Kinematics, using adolc to estimate the formula
 - Implemented Forward Kinematics,
